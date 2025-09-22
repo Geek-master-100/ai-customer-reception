@@ -191,38 +191,17 @@ pdkbot-python/
    - 检查Python版本是否符合要求
    - 重新安装依赖：`pip install -r requirements.txt`
 
-## 🆚 与C#版本的区别
-
-| 特性 | C#版本 | Python版本 |
-|------|--------|------------|
-| 技术栈 | .NET 8 + WPF | Python 3.8+ + PyQt6 |
-| 界面框架 | WPF | PyQt6 |
-| WebView | WebView2 | PyQt6-WebEngine |
-| 跨平台 | Windows Only | Windows/macOS/Linux |
-| 部署方式 | .NET Runtime | Python 解释器 |
-| 配置文件 | JSON | JSON |
-| JavaScript集成 | chrome.webview | window.pywebview |
-
-## 📝 更新日志
-
-### v1.0.0 (2024-12-22)
-- Python版本初始发布
-- 支持4个主要电商平台
-- 基础消息监控功能
-- 现代化界面设计
-- 完全独立于C#版本
 
 ## 🛡 注意事项
 
 ⚠️ **重要提醒**
 - 本项目仅供学习与交流使用
 - 请遵守各平台的使用条款
-- Python版本与C#版本功能对等但完全独立
 - 鉴于项目特殊性，开发团队可能随时停止更新或删除项目
 
 ## 🤝 贡献
 
-欢迎提交Issue和Pull Request来帮助改进Python版本！
+欢迎提交Issue和Pull Request来帮助改进！
 
 ---
 
